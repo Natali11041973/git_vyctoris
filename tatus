@@ -1,0 +1,41 @@
+[33mcommit e02b78e8fe46fc12663453c81a67a439813350f8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Natali <kazarenko.natali@mail.ru>
+Date:   Fri Apr 25 19:50:13 2025 +0300
+
+    Initial commit
+
+ .idea/workspace.xml | 14 [32m++++++++++++[m[31m--[m
+ 1 file changed, 12 insertions(+), 2 deletions(-)
+
+[33mcommit 730dda6660342a69d3744a44dfd53de4f7ad20e4[m
+Author: Natali <kazarenko.natali@mail.ru>
+Date:   Thu Apr 24 11:47:01 2025 +0300
+
+    Initial commit
+
+ .idea/workspace.xml | 24 [32m++++++++++++++++++[m[31m------[m
+ 1 file changed, 18 insertions(+), 6 deletions(-)
+
+[33mcommit da70853155b6e8b6a0f9f6b195e1db92b4302017[m
+Author: Natali <kazarenko.natali@mail.ru>
+Date:   Thu Apr 24 11:44:43 2025 +0300
+
+    initiation commit
+
+ .idea/workspace.xml | 24 [32m++++++++++++++[m[31m----------[m
+ 1 file changed, 14 insertions(+), 10 deletions(-)
+
+[33mcommit 4dce86b5d22152b99dbf7ec44824980d71471832[m
+Author: Natali <kazarenko.natali@mail.ru>
+Date:   Thu Apr 24 11:35:23 2025 +0300
+
+    Initional coommit
+
+ .idea/inspectionProfiles/profiles_settings.xml |   6 [32m++[m
+ .idea/misc.xml                                 |   7 [32m++[m
+ .idea/modules.xml                              |   8 [32m++[m
+ .idea/pythonProject9.iml                       |  10 [32m+++[m
+ .idea/vcs.xml                                  |   7 [32m++[m
+ .idea/workspace.xml                            | 106 [32m+++++++++++++++++++++++++[m
+ main.py                                        |  16 [32m++++[m
+ 7 files changed, 160 insertions(+)
