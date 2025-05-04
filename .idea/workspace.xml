@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06a1445b-8821-49af-b49d-24be256f6688" name="Changes" comment="Task - реализовано умножение">
+    <list default="true" id="06a1445b-8821-49af-b49d-24be256f6688" name="Changes" comment="Task4 - реализовано и сложение и умножение">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/git_vyctoris/test_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/git_vyctoris/test_calculator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +53,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.test_calculator">
+  <component name="RunManager" selected="Python.main">
     <configuration name="calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject9" />
       <option name="ENV_FILES" value="" />
@@ -189,9 +188,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test2" />
         <item itemvalue="Python.test_calculator" />
         <item itemvalue="Python.calculator" />
-        <item itemvalue="Python.test2" />
         <item itemvalue="Python.test1" />
         <item itemvalue="Python.test_colors" />
       </list>
@@ -285,7 +284,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746129226868</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Task4 - реализовано и сложение и умножение">
+      <option name="closed" value="true" />
+      <created>1746382229329</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1746382229329</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -307,7 +314,8 @@
     <MESSAGE value="Шаблон калькулятора" />
     <MESSAGE value="Шаблон калькулятора моего" />
     <MESSAGE value="Task - реализовано умножение" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task - реализовано умножение" />
+    <MESSAGE value="Task4 - реализовано и сложение и умножение" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task4 - реализовано и сложение и умножение" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
