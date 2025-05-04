@@ -15,5 +15,5 @@ git clone [link]
 7.Переключение на ветку
 - git checkout -b branch name
 - git checkout -b branch name(создать ветку если ее нету)
-
+и еще
 
