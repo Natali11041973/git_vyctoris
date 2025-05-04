@@ -15,5 +15,8 @@ git clone [link]
 7.Переключение на ветку
 - git checkout -b branch name
 - git checkout -b branch name(создать ветку если ее нету)
-и еще
-
+8.Обновляет и объединяет
+- git pull
+9. Временное хранилище для полезного кода(положить)
+ git stash
+ git stash apply(забрать из стеша)
