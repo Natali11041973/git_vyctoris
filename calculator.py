@@ -1,4 +1,5 @@
 import traceback
+это наш калькулятор
 class Calculator:
     last_res = None
     def sum(self, n1, n2):
