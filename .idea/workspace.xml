@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06a1445b-8821-49af-b49d-24be256f6688" name="Changes" comment="Task4 - реализовано и сложение и умножение">
+    <list default="true" id="06a1445b-8821-49af-b49d-24be256f6688" name="Changes" comment="Task5 - функция деления реализована">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/git_vyctoris/info" beforeDir="false" afterPath="$PROJECT_DIR$/git_vyctoris/info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +53,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.test_calculator">
     <configuration name="calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject9" />
       <option name="ENV_FILES" value="" />
@@ -189,9 +188,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test2" />
         <item itemvalue="Python.test_calculator" />
         <item itemvalue="Python.calculator" />
+        <item itemvalue="Python.test2" />
         <item itemvalue="Python.test1" />
         <item itemvalue="Python.test_colors" />
       </list>
@@ -293,7 +292,23 @@
       <option name="project" value="LOCAL" />
       <updated>1746382229329</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Решенный первый конфликт">
+      <option name="closed" value="true" />
+      <created>1746394359926</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1746394359926</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Task5 - функция деления реализована">
+      <option name="closed" value="true" />
+      <created>1746395307419</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1746395307419</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -316,7 +331,9 @@
     <MESSAGE value="Шаблон калькулятора моего" />
     <MESSAGE value="Task - реализовано умножение" />
     <MESSAGE value="Task4 - реализовано и сложение и умножение" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task4 - реализовано и сложение и умножение" />
+    <MESSAGE value="Решенный первый конфликт" />
+    <MESSAGE value="Task5 - функция деления реализована" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task5 - функция деления реализована" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
